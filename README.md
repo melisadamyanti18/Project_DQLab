@@ -1,4 +1,7 @@
 # Project DQLab B2B Retail Customer Analytics
+xyz.com adalah perusahan rintisan B2B yang menjual berbagai produk tidak langsung kepada end user tetapi ke bisnis/perusahaan lainnya. Sebagai data-driven company, maka setiap pengambilan keputusan di xyz.com selalu berdasarkan data. Setiap quarter xyz.com akan mengadakan townhall dimana seluruh atau perwakilan divisi akan berkumpul untuk me-review performance perusahaan selama quarter terakhir.
+
+<img width="414" alt="image" src="https://user-images.githubusercontent.com/98042382/220049658-bd5c4c02-7f5b-496c-8c93-888c2ec37021.png">
 
 Berdasarkan data yang telah kita peroleh melalui query SQL, Kita dapat menarik kesimpulan bahwa :
 
